@@ -22,4 +22,3 @@ async def ip(ctx):
   
 
 client.run('TOKEN') 
-#TOKEN = NzY2MjQ5NTU0MjU2OTg2MTIy.X4gngQ.hs7fRbMqT1SkC6Gt8LsySTYbgrY   
